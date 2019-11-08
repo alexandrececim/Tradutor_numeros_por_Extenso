@@ -47,6 +47,7 @@ O **Teste Unitário** está no pasta */testes* dentro de */www* onde o mesmo é 
 Estou almejando uma oportunidade no mercado de Tecnologia aqui na cidade de Florianópolis, e estou com este pequeno sistema como forma de mostrar meu trabalho, agradeço a todos que poderem de alguma forma melhorar este sisteminha,seja como sugestão, ou se poder, uma indicação de trabalho que será muito bem vinda.
 
 ## Bibliografia  de consultas
-http://www.linhadecodigo.com.br/artigo/3555/aprendendo-urls-amigaveis.aspx
-http://phpba.com.br/docker-php/
+* http://www.linhadecodigo.com.br/artigo/3555/aprendendo-urls-amigaveis.aspx
+
+* http://phpba.com.br/docker-php/
 
