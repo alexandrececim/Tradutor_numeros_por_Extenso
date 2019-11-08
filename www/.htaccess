@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+ 
+    RewriteRule ^((-*)[0-9]{1,6}+)$ /index.php?extenso=$1 [NC]
+</IfModule>
+
